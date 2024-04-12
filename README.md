@@ -5,6 +5,7 @@
 <a href="https://drive.google.com/drive/u/0/folders/1WGTR_UqDbaJwvqNyQFF9r5HVnYhUHdds">Link to the CTF</a>
 <p><b>Difficulty: </b> Easy</p>
 <p><b>There are 3 flags and Walter White's recipe!</b></p>
+<img src="giphy.gif" width="600px">
 <p>For all the BreakingBad fans! This is the first CTF made by me, I loved the process and it was a lot of fun. I hope you will love this box too!</p>
-<img src="giphy.gif" width="400px">
+
 

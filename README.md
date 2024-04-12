@@ -1,14 +1,3 @@
-<!DOCTYPE html>
-<html>
-<head>
-    <title>BreakingBad CTF</title>
-    <style>
-        body {
-            font-family: 'Courier New', Courier, monospace;
-        }
-    </style>
-</head>
-<body>
 
 <h1>BreakingBad CTF</h1>
 <h3>Can you get Walter White's recipe?</h3>
@@ -18,5 +7,4 @@
 <p><b>There are 3 flags and Walter White's recipe!</b></p>
 <p>For all the BreakingBad fans! This is the first CTF made by me, I loved the process and it was a lot of fun. I hope you will love this box too!</p>
 
-</body>
-</html>
+

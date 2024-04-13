@@ -14,7 +14,7 @@
 <p><b>Operating System: </b>Linux</p>
 <p><b>Format: </b>Virtual Machine (Virtualbox - OVA)</p>
 <p><b>Filename: </b>BreakingBad-CTF.ova</p>
-<p><b>File Size: </b>1.5G</p>
+<p><b>File Size: </b>1.53G</p>
 
 
 

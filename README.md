@@ -8,8 +8,8 @@
 
 </br>
 <p><b>Difficulty: </b> Easy</p>
-<p>Format: Virtual Machine (Virtualbox - OVA)</p>
-<p>Operating System: Linux</p>
+<p><b>Format: </b>Virtual Machine (Virtualbox - OVA)</p>
+<p><b>Operating System: </b>Linux</p>
 <p><b>There are 3 flags and Walter White's recipe!</b></p>
 <p><i>For all the BreakingBad fans!</br> This is the first CTF made by me, I loved the process and it was a lot of fun.</br><b>I hope you will love this box too!</b></i></p>
 

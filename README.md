@@ -7,6 +7,7 @@
 </div>
 
 </br>
+<h3>Description</h3>
 <p><b>Difficulty: </b> Easy</p>
 <p><b>Format: </b>Virtual Machine (Virtualbox - OVA)</p>
 <p><b>Operating System: </b>Linux</p>

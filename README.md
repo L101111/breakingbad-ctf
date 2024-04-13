@@ -5,6 +5,7 @@
 </div>
 <br>
 <a href="https://drive.google.com/file/d/1sV8dcL1Gth5fb0WNYUbqSIFtssVeLPVT/view?usp=sharing">Link to the CTF</a>
+</br>
 <p><b>Difficulty: </b> Easy</p>
 <p>Format: Virtual Machine (Virtualbox - OVA)</p>
 <p>Operating System: Linux</p>

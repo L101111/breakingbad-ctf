@@ -8,7 +8,7 @@
 
 </br>
 <h2>Description</h2>
-<h2><b>Get the flags, Root the machine and get Walter White's recipe!</b></h2>
+<h3><b>Get the flags, Root the machine and get Walter White's recipe!</b></h3>
 <p><b>Difficulty: </b> Easy</p>
 <p><b>Format: </b>Virtual Machine (Virtualbox - OVA)</p>
 <p><b>Operating System: </b>Linux</p>

@@ -11,6 +11,7 @@
 <h3><b>Get the flags, Root the machine and get Walter White's recipe!</b></h3>
 <p><b>Difficulty: </b> Easy</p>
 <p><b>Format: </b>Virtual Machine (Virtualbox - OVA)</p>
+<p><b>Filename: </b>BreakingBad-CTF.ova</p>
 <p><b>Operating System: </b>Linux</p>
 
 

@@ -1,6 +1,6 @@
 <div align="center">
 <h1>BreakingBad CTF</h1>
-<h3>Can you get Walter White's recipe?</h3>
+<h3><i>Can you get Walter White's recipe?</i></h3>
 <img src="1.png" width="400px">
 </div>
 <br>
